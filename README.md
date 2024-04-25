@@ -135,10 +135,10 @@ Publish the website in the LocalHost.
             <hr style="color: yellow;">
         </div>
         <div class="booktitle">
-            <h1>Computer Networking: A Top-Down Approach </h1>
+            <h1>FRONTEND DEVELOPMENT </h1>
         </div>
         <div class="subtitle">
-            <b>The complete guide to Networking</b>
+            <b>complete guide to become a frontend developer</b>
         </div>
         <div class="mypic">
             <img src="23014240 Gowshik IT .png" width="130" height="145" alt="">
